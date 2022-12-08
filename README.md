@@ -8,3 +8,5 @@ CONTRIBUTIONS:
 ●	Enhanced the web app’s backend Python algorithm by 100% through conditional statements that ensured solution accuracy.
 
 ●	Delegated tasks to members, assessed tasks, and facilitated the completion of the project by organizing weekly meetings. 
+
+WEB APP LINK: https://cargo-loading.herokuapp.com/ 
